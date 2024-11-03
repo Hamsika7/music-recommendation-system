@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 ### Clone the Repository
 ```
-git clone https://github.com/your-username/music-recommendation.git
+git clone https://github.com/Hamsika7/music-recommendation-system.git
 cd music-recommendation
 ```
 ### Install the Required Packages
