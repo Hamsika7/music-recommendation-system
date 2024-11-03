@@ -1,4 +1,5 @@
 # Music Recommendation System
+
 <!-- Replace with an actual image link if desired -->
 
 ## Overview
@@ -19,44 +20,39 @@ The Music Recommendation System is an interactive web application built using **
 ## Installation
 To run this project locally, follow these steps:
 
-## Clone the Repository
-
-```bash
+### Clone the Repository
+```
 git clone https://github.com/your-username/music-recommendation.git
 cd music-recommendation
-
+```
 ### Install the Required Packages
-```bash
-Copy code
+```
 pip install -r requirements.txt
-
-## Add Your Spotify API Credentials
+```
+### Add Your Spotify API Credentials
 In the app.py file, add your Spotify API credentials:
-```bash
-python
-Copy code
+```
 client_id = "YOUR_CLIENT_ID"
 client_secret = "YOUR_CLIENT_SECRET"
-
-## Run the Streamlit Application
-```bash
-Copy code
+```
+### Run the Streamlit Application
+```
 streamlit run app.py
-
+```
 ## Usage
--Navigate through the sidebar to explore different features.
--Use the Top Songs by Year option to filter and view popular tracks from specific years.
--Select your mood to receive song recommendations that match your feelings.
--Enter a track name to discover similar songs.
--View insightful visualizations that represent data trends in music streaming.
+* Navigate through the sidebar to explore different features.
+* Use the Top Songs by Year option to filter and view popular tracks from specific years.
+* Select your mood to receive song recommendations that match your feelings.
+* Enter a track name to discover similar songs.
+* View insightful visualizations that represent data trends in music streaming.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your enhancements.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](http://a.com) file for details.
 
 ## Acknowledgments
-+Spotify API
-+Streamlit
-+Google Colab
+- Spotify API
+- Streamlit
+- Google Colab
