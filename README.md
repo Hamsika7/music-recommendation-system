@@ -50,7 +50,7 @@ streamlit run app.py
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your enhancements.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](http://a.com) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Hamsika7/music-recommendation-system/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 - Spotify API
