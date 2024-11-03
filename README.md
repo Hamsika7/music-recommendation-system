@@ -1,6 +1,8 @@
 # Music Recommendation System
 
-<!-- Replace with an actual image link if desired -->
+## Live Demo
+Click [here](https://music-recommendation-system-m5cplggyakxywrwb89wpas.streamlit.app) to run the Music Recommendation System.
+
 
 ## Overview
 The Music Recommendation System is an interactive web application built using **Streamlit**, which leverages the **Spotify API** to provide personalized music recommendations based on user input. Users can explore top songs by year, receive mood-based recommendations, and obtain song suggestions based on their favorite tracks. The system is designed to enhance user experience by integrating data visualization features created in **Google Colab**.
