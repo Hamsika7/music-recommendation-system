@@ -140,8 +140,8 @@ if page == "Visualizations":
     st.title("Visualizations")
     
     # Load and display the saved images
-    st.image('D:/HAM/COLLEGE/Projects/CP/C_01/music recommendation/Images/total_streams_by_year.png', caption='Total Streams by Released Year', use_column_width=True)
-    st.image('D:/HAM/COLLEGE/Projects/CP/C_01/music recommendation/Images/top_10_artists.png', caption='Top 10 Artists by Total Streams', use_column_width=True)
-    st.image('D:/HAM/COLLEGE/Projects/CP/C_01/music recommendation/Images/danceability_vs_energy.png', caption='Danceability vs Energy', use_column_width=True)
-    st.image('D:/HAM/COLLEGE/Projects/CP/C_01/music recommendation/Images/distribution_of_streams.png', caption='Distribution of Streams', use_column_width=True)
-    st.image('D:/HAM/COLLEGE/Projects/CP/C_01/music recommendation/Images/acousticness_by_key.png', caption='Acousticness by Key', use_column_width=True)
+    st.image('Images/total_streams_by_year.png', caption='Total Streams by Released Year', use_column_width=True)
+    st.image('Images/top_10_artists.png', caption='Top 10 Artists by Total Streams', use_column_width=True)
+    st.image('Images/danceability_vs_energy.png', caption='Danceability vs Energy', use_column_width=True)
+    st.image('Images/distribution_of_streams.png', caption='Distribution of Streams', use_column_width=True)
+    st.image('Images/acousticness_by_key.png', caption='Acousticness by Key', use_column_width=True)
