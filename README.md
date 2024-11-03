@@ -19,7 +19,8 @@ The Music Recommendation System is an interactive web application built using **
 ## Installation
 To run this project locally, follow these steps:
 
-### Clone the Repository
+## Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/music-recommendation.git
 cd music-recommendation
