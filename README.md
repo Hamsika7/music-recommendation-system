@@ -54,3 +54,35 @@ Acknowledgments
 Spotify API
 Streamlit
 Google Colab
+
+
+# Music Recommendation System
+
+## Overview
+This project implements a Music Recommendation System that utilizes the Spotify API to provide personalized song recommendations based on user input. The application features an interactive web interface built using Streamlit and includes various functionalities, such as mood-based and song-based recommendations. The project also incorporates visualizations created using Google Colab to enhance user experience and data analysis.
+
+## Features
+- **Personalized Recommendations**: Generate song suggestions based on user preferences, including mood and specific tracks.
+- **Data Visualizations**: Interactive graphs and charts to provide insights into music trends and characteristics.
+- **Spotify API Integration**: Leverages the Spotify API to fetch real-time data and recommendations.
+
+## Technologies Used
+- **Python**: Primary programming language for application development.
+- **Streamlit**: Framework for building the web application.
+- **Spotify API**: Used for accessing music data and recommendations.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib/Seaborn**: Libraries for data visualization.
+- **Google Colab**: Used for exploratory data analysis and creating visualizations.
+
+## Installation
+
+### Prerequisites
+Before running the application, ensure you have the following installed:
+- Python 3.7 or later
+- Git
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/music-recommendation-system.git
+cd music-recommendation-system
+
