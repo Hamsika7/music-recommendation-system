@@ -10,7 +10,7 @@ client_credentials_manager = SpotifyClientCredentials(client_id=client_id, clien
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 # Load the model (update the path accordingly)
-model = joblib.load('D:/HAM/COLLEGE/Projects/CP/C_01/music recommendation/spotify_model.pkl')  # Update this path
+model = joblib.load('spotify_model.pkl')  # Update this path
 
 # Sidebar for navigation
 st.sidebar.title("Navigation")
